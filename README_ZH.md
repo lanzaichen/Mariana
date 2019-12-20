@@ -6,7 +6,7 @@
 [English Doc](https://github.com/lanzaichen/Mariana/blob/master/README.md)
 # 概述
 
-Mariana是一个Java常用工具的集合，功能包括开发中常用的工具，比如电子邮箱工具，URL安全校验工具，分布式锁工具等。
+Mariana(马里亚纳)是一个Java常用工具的集合，功能包括开发中常用的工具，比如电子邮箱工具，URL安全校验工具，分布式锁工具等。
 
 注：目前本开源项目处于启动阶段
 # 功能列表
