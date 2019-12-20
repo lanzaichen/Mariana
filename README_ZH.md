@@ -3,6 +3,7 @@
 [![image](https://img.shields.io/badge/Email-checker-orange)](https://tool.hsuchan.com/)
 [![image](https://img.shields.io/badge/Chance%20Hsu-www.tsuiz.com-yellow)](https://www.tsuiz.com/)
 
+[English Doc](https://github.com/lanzaichen/Mariana/blob/master/README.md)
 # 概述
 
 Mariana是一个Java常用工具的集合，功能包括开发中常用的工具，比如电子邮箱工具，URL安全校验工具，分布式锁工具等。
